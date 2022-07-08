@@ -11,5 +11,5 @@ package javaapplication2;
 public class QLSV {
     private String name;
     private int age;
-    
+    private String school;
 }
