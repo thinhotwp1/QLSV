@@ -9,7 +9,7 @@ package javaapplication2;
  * @author Administrator
  */
 public class QLSV {
-
-
+    private String name;
+    private int age;
     
 }
